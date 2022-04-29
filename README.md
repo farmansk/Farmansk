@@ -3,5 +3,5 @@
 - I've done Android development
 - I've also done some Arduino based projects
 - Learnt basic web development
-- Now I am looking at React js
+- Now, I am looking at React js
 - 📫 You can reach me at ig id @farman_sk_24
