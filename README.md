@@ -3,6 +3,5 @@
 - I've done Android development and full stack web development
 - MERN stack developer
 - I've also done some Arduino based projects
-- Learnt basic web development
 - Now, I am looking at Blockchain Development
 - 📫 You can reach me at ig id @farman_sk_24
