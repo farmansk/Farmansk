@@ -3,5 +3,5 @@
 - I've done Android development and full stack web development
 - MERN stack developer
 - I've also done some Arduino based projects
-- Now, I am looking at Blockchain Development
+- Currently looking at Blockchain Development and Cyber Security
 - 📫 You can reach me at ig id @farman_sk_24
