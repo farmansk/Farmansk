@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Farman Shaik
+Hi there 👋
+This is x0rc1ph3r
 - 👀 I’m interested in software development
 - I've done Android development and full stack web development
 - MERN stack developer
